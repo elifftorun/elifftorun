@@ -1,4 +1,4 @@
-![masterHead](https://pbs.twimg.com/media/DdlD7G_X0AAwec_.jpg)
+![masterHead](https://kutasyapi.net/wp-content/uploads/2022/07/image00445.jpg)
 
 
 
