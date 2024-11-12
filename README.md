@@ -6,7 +6,6 @@
 <h1 align="center">Hi 👋, I'm Elfii</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elifftorun&label=Profile%20views&color=0e75b6&style=flat" alt="elifftorun" /> </p>
 
 - 🔭 I’m currently working on [Html Tutorial](https://github.com/elifftorun/html-tutorial)
 
